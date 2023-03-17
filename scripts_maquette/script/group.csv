@@ -1,0 +1,6 @@
+﻿name,path,scope,category
+Partage_Lire,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",DomainLocal,Security
+Partage_Ecrire,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",DomainLocal,Security
+Direction,"OU=Groupes globaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Global,Security
+Commercial,"OU=Groupes globaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Global,Security
+RD,"OU=Groupes globaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Global,Security

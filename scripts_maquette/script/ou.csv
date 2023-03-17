@@ -1,0 +1,3 @@
+﻿displayname,name,path
+Groupes domaine locaux,Groupes domaine locaux,"OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr"
+Groupes globaux,Groupes globaux,"OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr"

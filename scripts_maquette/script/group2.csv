@@ -1,0 +1,10 @@
+﻿name,path,member
+DL_Partage1_L,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",RD
+DL_Partage1_LM,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Commercial
+DL_Partage1_CT,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Direction
+DL_Partage2_L,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Commercial
+DL_Partage2_LM,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Direction
+DL_Partage2_CT,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",RD
+DL_Partage3_L,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",RD
+DL_Partage3_LM,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Commercial
+DL_Partage3_CT,"OU=Groupes domaine locaux,OU=Groupes,OU=ValorElec,OU=Clients Entreprises,OU=ETP Chasseneuil,DC=Tierslieux86,DC=fr",Direction
